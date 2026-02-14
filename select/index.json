@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "JUVENILE（feat. じん）",
+  "base_artist": "初音ミク",
+  "createdAt": "2026-02-14T10:15:56.188436Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "My Juvenile (feat. Antony as \" the Conscience\")",
+      "artist": "Bjork",
+      "has_synced": true,
+      "path": "select/01_My_Juvenile_(feat._Antony_as___the_Conscience_)_Bjork.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "My Juvenile (feat. Antony as “The Conscience”)",
+      "artist": "Björk",
+      "has_synced": false,
+      "path": "select/02_My_Juvenile_(feat._Antony_as_“The_Conscience”)_Björk.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "My Juvenile (feat. Antony as \" the Conscience\")",
+      "artist": "Björk, Antony as \" The Conscience\"",
+      "has_synced": false,
+      "path": "select/03_My_Juvenile_(feat._Antony_as___the_Conscience_)_Björk,_Antony_as___The_Conscience.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "My Juvenile (feat. Antony as \"The Conscience\")",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/04_My_Juvenile_(feat._Antony_as__The_Conscience_)_Björk.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "15 Juvenile Feat. Skip & Wacko - Ready Or Not",
+      "artist": "DJ Rell",
+      "has_synced": false,
+      "path": "select/05_15_Juvenile_Feat._Skip_&_Wacko_-_Ready_Or_Not_DJ_Rell.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "JUVENILE",
+      "artist": "初音ミク feat. じん",
+      "has_synced": false,
+      "path": "select/pl_01_JUVENILE_初音ミク_feat._じん.txt"
+    }
+  ]
+}
